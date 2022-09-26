@@ -8,3 +8,19 @@
     text-decoration: none;
     color: rgb(163, 163, 163);
 }
+
+#titulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#subt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bgn {
+    background-color: rgb(27, 53, 168);
+}
+
+#bgnb {
+    background-color: rgb(245, 245, 245);
+}
